@@ -1,5 +1,6 @@
 # gobowling
- A bowling game implementation in Go (interview question)
+
+A bowling game implementation in Go (interview question)
 
 ## Prompt
 
